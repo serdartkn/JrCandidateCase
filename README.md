@@ -1,5 +1,7 @@
 # Jrcandidatecase
 
+https://github.com/serdartkn/JrCandidateCase/blob/master/Ad5s%C4%B1z.png
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
 ## Development server
